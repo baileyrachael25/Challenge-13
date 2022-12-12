@@ -16,7 +16,7 @@ You will also need to 'cd' into the 'db' file so that you can create the databas
 Exit mysql, and then run 'npm start' to start the server so that you can start creating requests to the http server at localhost:3001 in Insomnia.
 
 ## Video Demo
-
+https://watch.screencastify.com/v/N2xOEm2WVpeuml47DYkk
 
 ## Questions
 Any questions about this code? Feel free to contact me on GitHub at https://github.com/baileyrachael25 or contact me via email at baileyrachael25@gmail.com
